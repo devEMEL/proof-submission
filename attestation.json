@@ -1,0 +1,10 @@
+{
+  "root": "0xa902c9d3741fa6349c33980f4777503b7ffb368c8206ed0a3950de864f2bbc47",
+  "proof": [
+    "0x99a8a77639d2763276c55f99f7834ac0768ffef4a66fea249ebe16fdf4f53348",
+    "0xc8c52409be356867e5fe703c0c6897d41efe539ac14a5f2dfdd17ff5184c5d25"
+  ],
+  "numberOfLeaves": 4,
+  "leafIndex": 0,
+  "leaf": "0x2d3a96a7cc7c57f17b38f7864a0387891cba5f2dd0d57c45e84e31b0c38b4921"
+}
