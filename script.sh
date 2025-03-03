@@ -3,6 +3,6 @@
 while true; do
 
     node ./index.js
-    sleep 240 # sleep for 4 minutes 
+    sleep 60 # sleep for 1 minutes 
 
 done
